@@ -1,6 +1,7 @@
 # Bike Sharing Case Study
 > This case study is based on Predictive Analytics and Linear Regression(Machine Learning)
 
+<div><img src="https://www.boston-discovery-guide.com/image-files/hubway-copley-square.jpg" width="500" height="300" align = "center"></img></div>
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -21,11 +22,7 @@ Which variables are significant in predicting the demand for shared bikes.
 How well those variables describe the bike demands
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Rentals in the year 2019 is more than 2018
-- There is incremental growth from Jan till Sept but afterwards it is decreasing. Highest cnt is in Sept and Jan have least cnt
-- It is clear that highest demand is in fall and sping season have least value of cnt. Summer and winter have moderate cnt value
-- During holiday there is less cnt value that means less demand of rental bikes
+
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -36,6 +33,11 @@ How well those variables describe the bike demands
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
+## Conclusions
+- Rentals in the year 2019 is more than 2018
+- There is incremental growth from Jan till Sept but afterwards it is decreasing. Highest cnt is in Sept and Jan have least cnt
+- It is clear that highest demand is in fall and sping season have least value of cnt. Summer and winter have moderate cnt value
+- During holiday there is less cnt value that means less demand of rental bikes
 
 ## Contact
 Created by [@prernashukla] - feel free to contact me!
